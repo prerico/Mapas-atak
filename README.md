@@ -1,5 +1,5 @@
 # Mapas-atak
-Archivos .xml de fuentes wms para Atak
+Archivos .xml de fuentes online para Atak
 
 
 # ¿Qué son Mapas-atak?
