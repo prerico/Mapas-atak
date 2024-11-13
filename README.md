@@ -22,7 +22,7 @@ Para transferir la fuente de mapas a su aplicación ATAK, siga estos pasos:
 
 1. Descargar: Obtenga Mapas-atak.zip desde la página de repositorios.
 
-2. Importar al atak: Vaya a gerente de importaciones e importe el archivo zip descargado, automáticamente guardará la fuente de mapas en atak/imagery/mapsources/ del dispositivo.
+2. Importar al atak: Vaya al atak y pinche en gerente de importaciones e importe el archivo zip descargado, automáticamente guardará la fuente de mapas en atak/imagery/mapsources/ del dispositivo.
 
 
 Verificación: En ATAK, asegúrese de que los nuevos mapas aparezcan en la lista de mapas.
