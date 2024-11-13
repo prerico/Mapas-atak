@@ -33,6 +33,6 @@ Verificación: En ATAK, asegúrese de que los nuevos mapas aparezcan en la lista
 
 ¿Puedo almacenar en caché estos mapas para usarlos sin conexión? Sí, ATAK admite el almacenamiento en caché automático y manual de mapas.
 
-¿Se agregarán más mapas? Actualizamos continuamente nuestra colección de mapas.
+¿Se agregarán más mapas? Actualizaré continuamente nuestra colección de mapas.
 
 Comparte tus sugerencias aquí https://github.com/prerico/Mapas-atak/issues
